@@ -22,11 +22,11 @@ menu:
     url: https://github.com/VincenttHo
     target: _blank
   weibo:
-    url: http://www.weibo.com/ysweb
+    url: https://www.weibo.com/1826148964
     target: _blank
   link:
-    text: 测试
-    url: /custom
+    text: 友情链接：杰哥的博客
+    url: https://ssshooter.com
 
 # 你的头像url
 avatar: /img/avatar.jpg
@@ -38,7 +38,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: 252130586@qq.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
