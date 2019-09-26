@@ -93,13 +93,14 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  about: /about/ || user
   tags: /tags/ || tags
   categories: /categories/ || th
-  # archives: /archives/ || archive
+  archives: /archives/ || archive
+  # link: /link/ || link
   # schedule: /schedule/ || calendar
   # sitemap: /sitemap.xml || sitemap
   # commonweal: /404/ || heartbeat
+  # about: /about/ || user
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -144,14 +145,14 @@ social_icons:
   transition: false
 
 # Blog rolls
-# links_icon: link
-# links_title: 友情链接
+links_icon: link
+links_title: 友情链接
 # links_layout: block
-#links_layout: inline
-# links:
-#   杰哥的博客: https://ssshooter.com/
-#   阿伟的博客: https://ssshooter.com/
-#   斌斌的博客: https://ssshooter.com/
+links_layout: inline
+links:
+  杰哥的博客: https://ssshooter.com/
+  阿伟的博客: https://ssshooter.com/
+  # 斌斌的博客: https://ssshooter.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -674,7 +675,7 @@ motion:
     sidebar: slideUpIn
 
 # Fancybox
-fancybox: true
+fancybox: false
 
 # Progress bar in the top during page loading.
 pace: false

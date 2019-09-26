@@ -53,3 +53,4 @@ categories: 技术
 
 # 总结
 &emsp;&emsp;以上就是索引数据结构相关的讲解，下一篇文章将会讲解mysql存储引擎索引的实现。
+&emsp;&emsp;文中的图都是截自：https://www.cs.usfca.edu/~galles/visualization/Algorithms.html。这个网站可以看各种数据结构的演变过程，包含动画。
